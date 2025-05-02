@@ -1,6 +1,6 @@
-# 🔐 2-Secure-IAM-Sphere
+# 🔐 2-Secured-IAM-Sphere
 
-Welcome to **2-SecureSphere**, a next-generation Identity and Access Management (IAM) solution that redefines secure authentication through advanced biometric technologies and powerful access control mechanisms. Built for the modern web, 2-SecureSphere offers an all-in-one IAM platform with **WebAuthn**, **OAuth2/OpenID Connect**, **SSO**, **RBAC**, and more.
+Welcome to **2-Secured-IAM-Sphere**, a next-generation Identity and Access Management (IAM) solution that redefines secure authentication through advanced biometric technologies and powerful access control mechanisms. Built for the modern web, 2-SecureSphere offers an all-in-one IAM platform with **WebAuthn**, **OAuth2/OpenID Connect**, **SSO**, **RBAC**, and more.
 
 ---
 

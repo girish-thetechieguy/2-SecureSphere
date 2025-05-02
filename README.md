@@ -1,2 +1,26 @@
-# 2-SecureSphere
-(IAM Security) Description: Next-gen identity management with biometric authentication Features: Passwordless login with WebAuthn Facial recognition &amp; fingerprint auth OAuth2/OpenID Connect SSO RBAC with permission hierarchies Anomaly detection with behavioral biometrics
+# 2-SecureSphere-Complete-IAM-project: 
+(IAM Security) Description: Next-gen identity management with biometric authentication. 
+
+Attractive Features:  Passwordless login with WebAuthn, Facial recognition &amp; fingerprint auth, OAuth2/Openid Connect, SSO, RBAC with permission hierarchies, Anomaly detection with behavioural biometrics.
+
+Other Features: 
+Single-Sign On and Single-Sign Out for browser applications.
+OpenID Connect support.
+OAuth 2.0 support.
+SAML support.
+Identity Brokering - Authenticate with external OpenID Connect or SAML Identity Providers.
+Social Login - Enable login with Google, GitHub, Facebook, Twitter, and other social networks.
+User Federation - Sync users from LDAP and Active Directory servers.
+Kerberos bridge - Automatically authenticate users that are logged-in to a Kerberos server.
+Admin Console for central management of users, roles, role mappings, clients and configuration.
+Account Management console that allows users to centrally manage their account.
+Theme support - Customize all user facing pages to integrate with your applications and branding.
+Two-factor Authentication - Support for TOTP/HOTP via Google Authenticator or FreeOTP.
+Login flows - optional user self-registration, recover password, verify email, require password update, etc.
+Session management - Admins and users themselves can view and manage user sessions.
+Token mappers - Map user attributes, roles, etc. how you want into tokens and statements.
+Not-before revocation policies per realm, application and user.
+CORS support - Client adapters have built-in support for CORS.
+Service Provider Interfaces (SPI) - A number of SPIs to enable customizing various aspects of the server. Authentication flows, user federation providers, protocol mappers and many more.
+Client adapters for JavaScript applications, WildFly, JBoss EAP, Fuse, Tomcat, Jetty, Spring, etc.
+Supports any platform/language that has an OpenID Connect Resource Provider library or SAML 2.0 Service Provider library.
